@@ -1,0 +1,13 @@
+baseURL = "http://danjdevine.github.io/directory"
+languageCode = "en-us"
+title = "Directory"
+theme="archie"
+
+[params]
+
+Mode = "light"
+
+[[menu.main]]
+name = "Why?"
+url = "/about"
+weight = 3
