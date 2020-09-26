@@ -1,4 +1,4 @@
-baseURL = "https://danjdevine.github.io/"
+baseURL = "http://danjdevine.github.io/"
 title = "Your Website Title"
 languageCode = "en-us"
 theme = "devise"
@@ -7,6 +7,7 @@ enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
 copyright = "&copy; Copyright Year, Your Name"
+publishDir = "docs"
 
 # Main menu items
 [menu]
