@@ -1,4 +1,4 @@
-baseURL = "http://danjdevine.github.io/"
+baseURL = "danjdevine.github.io/danjdevine.github.io/"
 title = "Your Website Title"
 languageCode = "en-us"
 theme = "devise"
